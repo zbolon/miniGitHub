@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/zachbolon/C++/github/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/git.dir/miniGit/main_1.cpp.o -c /Users/zachbolon/C++/github/miniGit/main_1.cpp",
+  "file": "/Users/zachbolon/C++/github/miniGit/main_1.cpp",
+  "output": "CMakeFiles/git.dir/miniGit/main_1.cpp.o"
+},
+{
+  "directory": "/Users/zachbolon/C++/github/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/git.dir/miniGit/miniGit.cpp.o -c /Users/zachbolon/C++/github/miniGit/miniGit.cpp",
+  "file": "/Users/zachbolon/C++/github/miniGit/miniGit.cpp",
+  "output": "CMakeFiles/git.dir/miniGit/miniGit.cpp.o"
+},
+{
+  "directory": "/Users/zachbolon/C++/github/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/client.dir/client/main_client.cpp.o -c /Users/zachbolon/C++/github/client/main_client.cpp",
+  "file": "/Users/zachbolon/C++/github/client/main_client.cpp",
+  "output": "CMakeFiles/client.dir/client/main_client.cpp.o"
+},
+{
+  "directory": "/Users/zachbolon/C++/github/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/server.dir/server/main_server.cpp.o -c /Users/zachbolon/C++/github/server/main_server.cpp",
+  "file": "/Users/zachbolon/C++/github/server/main_server.cpp",
+  "output": "CMakeFiles/server.dir/server/main_server.cpp.o"
+}
+]
